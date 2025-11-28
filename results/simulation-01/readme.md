@@ -5,7 +5,7 @@
   - metrics_20251111_163955.json
   - network_20251111_163955.json
 
-## Simulation 01 Terminal Output
+## Simulation 01 Output
 - Storage vs Block Number:
 <img width="805" height="515" alt="Screenshot 2025-11-14 at 2 45 57 am" src="https://github.com/user-attachments/assets/acb66741-d805-4436-9b74-5d375d7bd1b0" />
 
