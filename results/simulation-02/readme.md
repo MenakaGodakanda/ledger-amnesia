@@ -31,16 +31,16 @@
 
 ## Simulation 02 Output
 
-- Storage vs Block Number:
+### Storage vs Block Number:
 <img width="750" height="501" alt="Screenshot 2025-11-14 at 3 06 42 am" src="https://github.com/user-attachments/assets/5a935c58-5304-4af5-8dbd-00532732a80a" />
 
-- Block Generation Time vs Block Number:
+### Block Generation Time vs Block Number:
 <img width="641" height="367" alt="Screenshot 2025-11-14 at 3 15 51 pm" src="https://github.com/user-attachments/assets/168b4073-a420-4112-bebd-c1496459809c" />
 
-- Hash Operations per Block vs Block Number:
+### Hash Operations per Block vs Block Number:
 <img width="654" height="355" alt="Screenshot 2025-11-15 at 6 45 59 am" src="https://github.com/user-attachments/assets/f95552cf-5f17-4886-840d-673a03ec9364" />
 
-- Terminal Output (text):
+### Terminal Output (text):
 ```
 (venv) mcyber@mcyber-VirtualBox:~/ledger-amnesia$ python simulation/run_multi_node_simulation.py 500
 ================================================================================
