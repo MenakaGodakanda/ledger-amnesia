@@ -150,18 +150,15 @@ For each node (NODE-01 through NODE-05):
 ledger-amnesia/
 │
 ├── README.md                 # This file
-├── requirements.txt          # Python dependencies
 ├── config.py                 # System configuration
 │
 ├── src/                      # Core implementation
-│   ├── __init__.py
 │   ├── block.py             # Block structure & PoW
 │   ├── circular_ledger.py   # Circular buffer logic
 │   ├── sensor_data.py       # IoT data generation
 │   └── network.py           # Network simulation
 │
 ├── simulation/               # Simulation scripts
-│   ├── __init__.py
 │   ├── run_simulation.py    # Main simulation
 │   ├── run_multi_node_simulation.py # Multi-node simulation
 │   └── performance_monitor.py  # Metrics collection
