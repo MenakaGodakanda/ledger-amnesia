@@ -1,8 +1,8 @@
-# Ledger Amnesia: Circular Blockchain Design for IoT
+# Ledger Amnesia: Circular Circular Buffer Design Enabling Distributed Ledger Technology for IoT
 
 ## Overview
 
-Ledger Amnesia is a novel blockchain architecture designed specifically for resource-constrained IoT devices. Unlike traditional blockchains that grow unbounded, Ledger Amnesia implements a circular buffer structure that maintains constant O(N) storage regardless of operational duration.
+Ledger Amnesia is a circular buffer designed specifically for resource-constrained IoT devices. Unlike traditional blockchains that grow unbounded, Ledger Amnesia implements a circular buffer structure that maintains constant O(N) storage regardless of operational duration.
 
 ## Experimental Simulation
 
