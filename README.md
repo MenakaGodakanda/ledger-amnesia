@@ -163,15 +163,13 @@ ledger-amnesia/
 ├── simulation/               # Simulation scripts
 │   ├── __init__.py
 │   ├── run_simulation.py    # Main simulation
+│   ├── run_multi_node_simulation.py # Multi-node simulation
 │   └── performance_monitor.py  # Metrics collection
-│
-├── tests/                    # Unit tests
-│   ├── __init__.py
-│   └── test_ledger.py       # Test suite
 │
 └── results/                  # Output directory
     ├── metrics_*.json       # Performance data
     └── network_*.json       # Network statistics
+    └── block_details_*.json       # Block details
 ```
 
 ## License
