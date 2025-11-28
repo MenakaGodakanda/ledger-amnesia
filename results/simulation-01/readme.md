@@ -6,17 +6,17 @@
   - network_20251111_163955.json
 
 ## Simulation 01 Output
-- Storage vs Block Number:
+### Storage vs Block Number:
 <img width="805" height="515" alt="Screenshot 2025-11-14 at 2 45 57 am" src="https://github.com/user-attachments/assets/acb66741-d805-4436-9b74-5d375d7bd1b0" />
 
-- Block Generation Time vs Block Number:
+### Block Generation Time vs Block Number:
 <img width="532" height="369" alt="Screenshot 2025-11-14 at 3 20 24 am" src="https://github.com/user-attachments/assets/777f16fc-68bd-4034-b4bc-3a0373254173" />
 
-- Hash Operations per Block vs Block Number:
+### Hash Operations per Block vs Block Number:
 <img width="653" height="420" alt="Screenshot 2025-11-15 at 6 45 37 am" src="https://github.com/user-attachments/assets/c5f30a68-87bc-47ff-b36e-ebbba64749fb" />
 
 
-- Terminal Output (text):
+### Terminal Output (text):
 ```
 (venv) mcyber@mcyber-VirtualBox:~/ledger-amnesia$ python simulation/run_simulation.py 500
 Initializing network with 5 nodes...
