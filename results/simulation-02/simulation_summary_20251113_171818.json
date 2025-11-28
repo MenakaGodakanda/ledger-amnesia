@@ -1,0 +1,51 @@
+{
+  "simulation_config": {
+    "num_nodes": 5,
+    "blocks_per_node": 500,
+    "buffer_size": 100,
+    "difficulty": 12,
+    "block_interval": 2
+  },
+  "nodes": [
+    {
+      "node_id": "NODE-01",
+      "blocks_created": 500,
+      "blocks_received": 0,
+      "blocks_validated": 0,
+      "blocks_rejected": 0,
+      "storage_kb": 39.3583984375
+    },
+    {
+      "node_id": "NODE-02",
+      "blocks_created": 500,
+      "blocks_received": 0,
+      "blocks_validated": 0,
+      "blocks_rejected": 0,
+      "storage_kb": 39.357421875
+    },
+    {
+      "node_id": "NODE-03",
+      "blocks_created": 500,
+      "blocks_received": 0,
+      "blocks_validated": 0,
+      "blocks_rejected": 0,
+      "storage_kb": 39.3505859375
+    },
+    {
+      "node_id": "NODE-04",
+      "blocks_created": 500,
+      "blocks_received": 0,
+      "blocks_validated": 0,
+      "blocks_rejected": 0,
+      "storage_kb": 39.34765625
+    },
+    {
+      "node_id": "NODE-05",
+      "blocks_created": 500,
+      "blocks_received": 0,
+      "blocks_validated": 0,
+      "blocks_rejected": 0,
+      "storage_kb": 39.361328125
+    }
+  ]
+}

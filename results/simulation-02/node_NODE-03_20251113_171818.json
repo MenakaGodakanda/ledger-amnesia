@@ -1,0 +1,25 @@
+{
+  "node_id": "NODE-03",
+  "is_synchronized": true,
+  "blocks_received": 0,
+  "blocks_validated": 0,
+  "blocks_rejected": 0,
+  "peer_count": 4,
+  "ledger_stats": {
+    "total_blocks_created": 501,
+    "accessible_blocks": 100,
+    "overwritten_blocks": 401,
+    "storage_usage_bytes": 40295,
+    "storage_usage_kb": 39.3505859375,
+    "buffer_utilization": 100.0,
+    "total_hash_computations": 2059184,
+    "window_start": 401,
+    "window_end": 500
+  },
+  "simulation_summary": {
+    "total_time_seconds": 3096.608134508133,
+    "target_blocks": 500,
+    "blocks_created": 500,
+    "average_time_per_block": 6.193216270923615
+  }
+}
