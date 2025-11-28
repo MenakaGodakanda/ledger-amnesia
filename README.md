@@ -74,8 +74,8 @@ pip install numpy matplotlib psutil tabulate pytest
 ```
 python simulation/run_simulation.py
 ```
-- Expected Terminal Output: <br>
-<a href="https://github.com/MenakaGodakanda/ledger-amnesia/tree/main/results/simulation-01">Simulation 01 Terminal Output</a>
+- Expected Output: <br>
+<a href="https://github.com/MenakaGodakanda/ledger-amnesia/tree/main/results/simulation-01">Simulation 01 Output</a>
 
 #### 2. Run with custom number of blocks
 ```
@@ -102,15 +102,13 @@ Results are saved to the `results/` directory:
 ```
 python simulation/run_multi_node_simulation.py
 ```
-- Expected Terminal Output:<br>
-<a href="https://github.com/MenakaGodakanda/ledger-amnesia/tree/main/results/simulation-02">Simulation 02 Terminal Output</a>
+- Expected Output:<br>
+<a href="https://github.com/MenakaGodakanda/ledger-amnesia/tree/main/results/simulation-02">Simulation 02 Output</a>
 
 #### 2. Run with custom number of blocks per node
 ```
 python simulation/run_multi_node_simulation.py 100
 ```
-- Expected Terminal Output:
-
 
 #### 3. Output Files
 After simulation, you'll find these files in `results/`:
