@@ -76,19 +76,13 @@ python simulation/run_simulation.py
 python simulation/run_simulation.py 1000
 ```
 
-#### 3. Run Unit Tests
-- Run all tests
-```bash
-python tests/test_ledger.py
-```
-- Expected Terminal Output:
-
-
-- Run with pytest (if installed)
+#### 3. Run Tests
+- Run with pytest
 ```
 pytest tests/ -v
 ```
 - Expected Terminal Output:
+<img width="1200" height="665" alt="Screenshot 2025-11-11 165229" src="https://github.com/user-attachments/assets/ba62192e-11fc-4a3f-bd61-74247e585ca7" />
 
 #### 4. Output Files
 Results are saved to the `results/` directory:
@@ -144,6 +138,11 @@ For each node (NODE-01 through NODE-05):
 - Configuration used
 - Summary for all nodes
 - Network-wide statistics
+
+## Storge
+
+- Expected Terminal Output:<br>
+<img width="791" height="695" alt="Screenshot 2025-11-20 144450" src="https://github.com/user-attachments/assets/a3ea69b6-3cf7-4540-a84c-faf13dfb9f27" />
 
 ## Project Structure
 
