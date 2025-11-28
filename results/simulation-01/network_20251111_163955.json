@@ -1,0 +1,109 @@
+{
+  "num_nodes": 5,
+  "total_blocks_created": 500,
+  "avg_propagation_time_seconds": 0.5086794919967651,
+  "consensus_status": {
+    "consensus": true,
+    "reference_index": 500,
+    "reference_hash": "000bd965c41b3ca2...",
+    "mismatched_nodes": [],
+    "total_nodes": 5
+  },
+  "node_statistics": [
+    {
+      "node_id": "NODE-01",
+      "is_synchronized": true,
+      "blocks_received": 0,
+      "blocks_validated": 0,
+      "blocks_rejected": 0,
+      "peer_count": 4,
+      "ledger_stats": {
+        "total_blocks_created": 501,
+        "accessible_blocks": 100,
+        "overwritten_blocks": 401,
+        "storage_usage_bytes": 40605,
+        "storage_usage_kb": 39.6533203125,
+        "buffer_utilization": 100.0,
+        "total_hash_computations": 1991960,
+        "window_start": 401,
+        "window_end": 500
+      }
+    },
+    {
+      "node_id": "NODE-02",
+      "is_synchronized": true,
+      "blocks_received": 500,
+      "blocks_validated": 500,
+      "blocks_rejected": 0,
+      "peer_count": 4,
+      "ledger_stats": {
+        "total_blocks_created": 501,
+        "accessible_blocks": 100,
+        "overwritten_blocks": 401,
+        "storage_usage_bytes": 40605,
+        "storage_usage_kb": 39.6533203125,
+        "buffer_utilization": 100.0,
+        "total_hash_computations": 0,
+        "window_start": 401,
+        "window_end": 500
+      }
+    },
+    {
+      "node_id": "NODE-03",
+      "is_synchronized": true,
+      "blocks_received": 500,
+      "blocks_validated": 500,
+      "blocks_rejected": 0,
+      "peer_count": 4,
+      "ledger_stats": {
+        "total_blocks_created": 501,
+        "accessible_blocks": 100,
+        "overwritten_blocks": 401,
+        "storage_usage_bytes": 40605,
+        "storage_usage_kb": 39.6533203125,
+        "buffer_utilization": 100.0,
+        "total_hash_computations": 0,
+        "window_start": 401,
+        "window_end": 500
+      }
+    },
+    {
+      "node_id": "NODE-04",
+      "is_synchronized": true,
+      "blocks_received": 500,
+      "blocks_validated": 500,
+      "blocks_rejected": 0,
+      "peer_count": 4,
+      "ledger_stats": {
+        "total_blocks_created": 501,
+        "accessible_blocks": 100,
+        "overwritten_blocks": 401,
+        "storage_usage_bytes": 40605,
+        "storage_usage_kb": 39.6533203125,
+        "buffer_utilization": 100.0,
+        "total_hash_computations": 0,
+        "window_start": 401,
+        "window_end": 500
+      }
+    },
+    {
+      "node_id": "NODE-05",
+      "is_synchronized": true,
+      "blocks_received": 500,
+      "blocks_validated": 500,
+      "blocks_rejected": 0,
+      "peer_count": 4,
+      "ledger_stats": {
+        "total_blocks_created": 501,
+        "accessible_blocks": 100,
+        "overwritten_blocks": 401,
+        "storage_usage_bytes": 40605,
+        "storage_usage_kb": 39.6533203125,
+        "buffer_utilization": 100.0,
+        "total_hash_computations": 0,
+        "window_start": 401,
+        "window_end": 500
+      }
+    }
+  ]
+}
