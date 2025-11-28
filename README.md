@@ -1,4 +1,4 @@
-# Ledger Amnesia: Circular Circular Buffer Design Enabling Distributed Ledger Technology for IoT
+# Ledger Amnesia: Circular Buffer Design Enabling Distributed Ledger Technology for IoT
 
 ## Overview
 
