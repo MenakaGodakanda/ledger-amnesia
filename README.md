@@ -166,8 +166,8 @@ ledger-amnesia/
 │   └── network.py           # Network simulation
 │
 ├── simulation/               # Simulation scripts
-│   ├── run_simulation.py    # Main simulation
-│   ├── run_multi_node_simulation.py # Multi-node simulation
+│   ├── run_simulation.py    # Single-node simulation (simulation 01)
+│   ├── run_multi_node_simulation.py # Multi-node simulation (simulation 02)
 │   └── performance_monitor.py  # Metrics collection
 │
 └── results/                  # Output directory
