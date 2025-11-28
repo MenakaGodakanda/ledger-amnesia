@@ -68,15 +68,13 @@ pip install numpy matplotlib psutil tabulate pytest
 ```
 python simulation/run_simulation.py
 ```
-- Expected Terminal Output:
-
+- Expected Terminal Output: <br>
+<a href="https://github.com/MenakaGodakanda/ledger-amnesia/tree/main/results/simulation-01">Simulation 01 Terminal Output</a>
 
 #### 2. Run with custom number of blocks
 ```
 python simulation/run_simulation.py 1000
 ```
-- Expected Terminal Output:
-
 
 #### 3. Run Unit Tests
 - Run all tests
@@ -98,17 +96,14 @@ Results are saved to the `results/` directory:
 - `metrics_YYYYMMDD_HHMMSS.json` - Complete performance metrics
 - `network_YYYYMMDD_HHMMSS.json` - Network statistics
 
-
-
-
 ### Running the Simulation 02
 
 #### 1. Run simulation with default settings (5 nodes, 500 blocks each)
 ```
 python simulation/run_multi_node_simulation.py
 ```
-- Expected Terminal Output:
-
+- Expected Terminal Output:<br>
+<a href="https://github.com/MenakaGodakanda/ledger-amnesia/tree/main/results/simulation-02">Simulation 02 Terminal Output</a>
 
 #### 2. Run with custom number of blocks per node
 ```
