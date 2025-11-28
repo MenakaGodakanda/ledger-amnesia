@@ -139,8 +139,11 @@ For each node (NODE-01 through NODE-05):
 - Summary for all nodes
 - Network-wide statistics
 
-## Storge
-
+## Theoretical and Actual Storage Comparison
+### To understand the storage difference
+```
+python storage_analysis.py
+```
 - Expected Terminal Output:<br>
 <img width="791" height="695" alt="Screenshot 2025-11-20 144450" src="https://github.com/user-attachments/assets/a3ea69b6-3cf7-4540-a84c-faf13dfb9f27" />
 
