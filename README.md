@@ -4,6 +4,12 @@
 
 Ledger Amnesia is a novel blockchain architecture designed specifically for resource-constrained IoT devices. Unlike traditional blockchains that grow unbounded, Ledger Amnesia implements a circular buffer structure that maintains constant O(N) storage regardless of operational duration.
 
+## Experimental Simulation
+
+We conduct two simulation scenarios. 
+- **Simulation 1** validates single-node operation with one node generating 500 blocks to isolate core mechanisms.
+- **Simulation 2** demonstrates scalability with five nodes each generating 500 blocks sequentially (2,500 total) to confirm constant storage holds across heterogeneous deployments.
+
 ## Key Features
 
 - **Constant Storage**: Fixed ≈ 40 KB storage (N=100 slots)
